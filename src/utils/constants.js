@@ -2,5 +2,9 @@
 
 export const ROUTE_PATHS = {
   HOME: '/',
-  LOGIN: '/login',
+  ABOUTME: '/aboutme',
+  CONTACT: '/contact',
+  MUSIC: '/music',
+  PHOTOS: '/photos',
+  QUOTES: '/quotes',
 }
